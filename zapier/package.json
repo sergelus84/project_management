@@ -1,7 +1,7 @@
 {
-  "name": "untitled-application",
+  "name": "org-50-ruby",
   "version": "1.0.0",
-  "description": "Integrate Zapier with Untitled Application",
+  "description": "Integrate Zapier with ORG-50-RUBY",
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive -t 10000"

@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: ORG-50-RUBY
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: org-50-ruby seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: org_50_ruby
   webhooks/outgoing/endpoints:
     fields:
       api_version:
